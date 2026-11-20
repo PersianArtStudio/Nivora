@@ -1,12 +1,18 @@
+**English** | [فارسی](README.fa.md)
+
 <p align="center"><img src="assets/logo.png" width="80" alt="Nivora logo"></p>
 <h1 align="center">Nivora</h1>
 <p align="center">A native Windows launcher for Antigravity App, IDE and CLI.</p>
+
+Nivora is built for people in regions or on networks where access to Antigravity is restricted. It lets you start an installed Antigravity client with a local HTTP or SOCKS5 proxy you already run. Service availability depends on your network, account eligibility, and the provider’s access requirements.
+
+[**Download for Windows x64**](https://github.com/PersianArtStudio/Nivora/releases)
 
 Choose a target, start your local proxy and click **Launch selected target**. Nivora checks the listener, starts the selected application and can move to the notification area. Each target remembers its own executable path.
 
 ## Install on Windows
 
-Run **Nivora-Setup-1.1.0-x64.exe** from a built release. The installer adds a Start menu shortcut for the current user. A desktop shortcut is optional. Remove Nivora through Windows Settings → Apps. The source archive includes everything needed to build the launcher with the tools below.
+Download and run **Nivora-Setup-1.1.0-x64.exe** from the **Assets** section of release `v1.1.0`. Windows 10 or 11 (x64), your chosen Antigravity client, and a running local proxy are required. The installer adds a Start menu shortcut for the current user. A desktop shortcut is optional. Remove Nivora through Windows Settings → Apps. The source archive includes everything needed to build the launcher with the tools below.
 
 ## Choose a launch target
 
