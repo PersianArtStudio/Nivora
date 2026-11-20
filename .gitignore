@@ -1,0 +1,9 @@
+dist/
+*.log
+*.obj
+*.pdb
+*.exe
+__pycache__/
+
+.build-tools/
+*.whl

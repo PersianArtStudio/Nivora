@@ -1,0 +1,4 @@
+Nivora v1.1.0
+Native Windows reimplementation of the local proxy selection and application discovery workflow from dalroot/antigravity-cleaner (Apache License 2.0).
+Upstream: https://github.com/dalroot/antigravity-cleaner
+Nivora is independent of Google and of the upstream maintainers.
